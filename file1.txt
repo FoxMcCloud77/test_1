@@ -1,1 +1,3 @@
-Here is my text. I made some changes to it.
+Here is my text. I made some changes to it. Tralalelo tralala.
+I also added a new line here.
+And I made some changes to the first line.
